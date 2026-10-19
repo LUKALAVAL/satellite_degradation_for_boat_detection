@@ -1,0 +1,1 @@
+# satellite_degradation_for_boat_detection
